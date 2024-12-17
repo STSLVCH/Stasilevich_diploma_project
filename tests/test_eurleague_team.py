@@ -70,3 +70,4 @@ def test_team_all(web_browser):
         with allure.step('Проверка на корректный адрес кнопки'):
             team.click()
             check.equal(page.get_current_url(), url_team)
+
