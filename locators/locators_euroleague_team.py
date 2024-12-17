@@ -41,4 +41,3 @@ class MainPage(WebPage):
     btn_team_madrid = WebElement(xpath='(//a[@href="/ru/euroleague/teams/real-madrid/roster/mad/?season=2024-25"])[3]')
     btn_team_bologna = WebElement(xpath='(//a[@href="/ru/euroleague/teams/virtus-segafredo-bologna/roster/vir/?season=2024-25"])[3]')
     btn_team_kaunas = WebElement(xpath='(//a[@href="/ru/euroleague/teams/zalgiris-kaunas/roster/zal/?season=2024-25"])[3]')
-

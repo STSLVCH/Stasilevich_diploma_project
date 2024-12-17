@@ -143,10 +143,3 @@ def test_count_footer(web_browser):
     # print(page.btn_a_test.count())
     with allure.step("Проверяем на колличество элементов этого класса"):
         check.equal(19, page.btn_a_test.count(), "Колличество не подходит")
-
-
-
-
-
-
-

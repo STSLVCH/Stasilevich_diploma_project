@@ -126,9 +126,3 @@ class MainPage(WebPage):
     field_income_password = WebElement(xpath='//input[@id="signin_password"]')
     btn_login_income = WebElement(xpath='//*[text()="Login"]')
     text_check_income = WebElement(xpath='//h1[text()="Твой аккаунт"]')
-
-
-
-
-
-

@@ -93,22 +93,3 @@ def test_form_registration(web_browser):
     time.sleep(2)
     with allure.step("Проверка на успешный вход после регистрации"):
         check.is_true(page.text_check_income.is_visible())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

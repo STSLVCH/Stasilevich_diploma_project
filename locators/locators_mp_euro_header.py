@@ -40,10 +40,3 @@ class MainPage(WebPage):
     btn_logo_cup_header = WebElement(xpath='(//a[@href="/ru/eurocup/"])[2]')
     btn_logo_euro_header = WebElement(xpath='(//a[@href="/ru/euroleague/"])[2]')
     btn_main_page_income = WebElement(xpath='(//*[@type="button"])[14]')
-
-
-
-
-
-
-

@@ -76,7 +76,3 @@ class MainPage(WebPage):
 
     #Локатор для проверки колличества
     btn_a_test = ManyWebElements(xpath='//a[@class="footer-nav-section_navLink__kJd_f"]')
-
-
-
-
