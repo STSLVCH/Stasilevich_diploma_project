@@ -56,5 +56,5 @@ def test_team_all(web_browser):
             if page.wait_page_loaded():
                 check.equal(page.get_current_url(), url_team)
             else:
-                "Сам допиши че надо сюда написать"
+                "Сам допиши че надо сюда написать!"
             page.go_back()

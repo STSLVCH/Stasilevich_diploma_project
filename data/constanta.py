@@ -1,4 +1,5 @@
 class ConstantaUrlMainPage:
+    """Тут указаны ссылки сайтов для главной страницы"""
     url_tean_alba = "https://www.euroleaguebasketball.net/ru/euroleague/teams/alba-berlin/roster/ber/?season=2024-25"
     url_team_efes = "https://www.euroleaguebasketball.net/ru/euroleague/teams/anadolu-efes-istanbul/roster/ist/?season=2024-25"
     url_team_monaco = "https://www.euroleaguebasketball.net/ru/euroleague/teams/as-monaco/roster/mco/?season=2024-25"
