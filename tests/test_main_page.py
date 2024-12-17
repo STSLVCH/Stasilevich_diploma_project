@@ -2,8 +2,8 @@ import time
 
 import allure
 import pytest_check as check
-from nikita_stasilevich.Classwork_8_diplom.diplom_work_Stasilevich_Nikita.locators.locators_main_page import MainPage
-from nikita_stasilevich.Classwork_8_diplom.diplom_work_Stasilevich_Nikita.conftest import web_browser
+from locators.locators_mp_euro_header import MainPage
+from conftest import web_browser
 
 @allure.story('Тест для проверки главной страницы')
 @allure.feature('Тест для проверки хедара')
