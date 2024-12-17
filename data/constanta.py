@@ -18,3 +18,4 @@ class ConstantaUrlMainPage:
     url_team_madrid = "https://www.euroleaguebasketball.net/ru/euroleague/teams/real-madrid/roster/mad/?season=2024-25"
     url_team_bologna = "https://www.euroleaguebasketball.net/ru/euroleague/teams/virtus-segafredo-bologna/roster/vir/?season=2024-25"
     url_team_kaunas = "https://www.euroleaguebasketball.net/ru/euroleague/teams/zalgiris-kaunas/roster/zal/?season=2024-25"
+
